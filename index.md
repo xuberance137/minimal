@@ -8,7 +8,7 @@ layout: default
 | [Github](https://github.com/xuberance137) 
 
 
-I am the founder/CTO at [Sust Global](https://www.sustglobal.com/), where we are building geospatial AI for risk modeling and climate adaptation. I am in interested in data, finance and software systems that facilitate decision making. 
+I am the founder/CTO at [Sust Global](https://www.sustglobal.com/), where we are building geospatial AI for risk modeling and climate adaptation. I am interested in data, finance and software systems that facilitate decision making. 
 
 We live in the most exciting time to build, deliver value and create impact with geospatial products across industries. While it has never been easier to create companies, it has never been harder to stand up new businesses with defensible moats. 
 
@@ -16,7 +16,7 @@ My career mission is to leverage the power of small teams forged from collaborat
 
 In recent years, I have led products that have scaled from concepts to customer centric proof of value to planetary scale inference in weeks and months. Previously, I led geospatial AI products at [Planet Labs](https://www.planet.com/) (NYSE:PL), an integrated aerospace and data analytics company that operates history's largest commercial fleet of earth observation satellites. 
 
-I've been an invited speaker at global industry conferences like Google Cloud Next, MLConf and have presented at leading technical machine learning conferences such as CVPR (2018), ICML (2019), NeurIPS (2020) and ICLR (2023).
+I've been an invited speaker at global industry conferences like Google Cloud Next, MLConf and have presented at leading technical machine learning conferences such as CVPR (2018), ICML (2019), NeurIPS (2020) and ICLR (2023). I've been lead inventor in over 20 patents ([full list](https://patents.google.com/?inventor=erinjippurath)) across imaging and entertainment technologies and geospatial data representation and processing. I was an invited presenter at the 2014 USPTO Invention Fair.
 
 I invest in early stage AI, geospatial and new space ventures as an angel and LP.
 
@@ -35,7 +35,7 @@ I invest in early stage AI, geospatial and new space ventures as an angel and LP
 1. [A tale of two hurricanes in the North Atlantic](https://www.linkedin.com/posts/gopalerinjippurath_inferences-from-a-climate-finance-and-data-activity-7254168305790267392-wSeG)
 2. [Climate Analytics on spatial portfolios of utilities](https://www.linkedin.com/posts/gopalerinjippurath_utilitiesindustry-utilities-portfoliomanagement-activity-7166468148819427329-6gas)
 3. [Role of geospatial AI in fireproofing forest carbon, ICLR2023](https://www.linkedin.com/posts/gopalerinjippurath_the-role-of-ai-in-fireproofing-forest-carbon-activity-7063921444107284480-BP_c)
-4. [Contrastive learning for debiasing and super resolultion, AAAI2022](https://www.climatechange.ai/papers/aaaifss2022/10)
+4. [Contrastive learning for debiasing and super resolution, AAAI2022](https://www.climatechange.ai/papers/aaaifss2022/10)
 5. [Geoscience-driven super-resolution of fire projections, NeurIPS2020](https://www.climatechange.ai/papers/neurips2020/45)
 6. [Building geospatial AI to prepare for climate change, ICML2019](https://medium.com/planet-stories/how-automated-building-analytics-can-help-african-cities-prepare-for-climate-change-dcee34929b2e)
 
@@ -49,16 +49,14 @@ I invest in early stage AI, geospatial and new space ventures as an angel and LP
 5. [Data Engg Podcast: Climate analytics in your data platform, 2022](https://youtu.be/IFRjA-WyfWQ?si=aYKU-hZkr1WcQlgB)
 6. [Data science and your PM career with John Fotenote, 2022](https://youtu.be/BMvoMTLda0o?si=rzCw_vfgFiTSyzcL)
 
-
 # Talks
 
 1. [2024 Climate Week SF](https://www.linkedin.com/posts/gopalerinjippurath_sfclimateweek-climateweeknyc-activity-7208497957254385664-B48-)
 2. [2021 Making multisource geospatial imagery useful for ML](https://www.linkedin.com/posts/gopalerinjippurath_making-multi-source-geospatial-imagery-useful-activity-6562096295664848896-oq_G)
-3. [2020 ML Conf: Scenaio analysis through geospatial AI](https://youtu.be/p4FhmF4RBqk?si=-gqVmGre9izAT16C)
+3. [2020 ML Conf: Scenario analysis through geospatial AI](https://youtu.be/p4FhmF4RBqk?si=-gqVmGre9izAT16C)
 4. [2019 Google Cloud Next: Leveraging data and AI for social good](https://youtu.be/MIa54a9NnW4?si=qlcMwmqJORgmx451)
 5. [2019 ODSC: Planetary scale location insights](https://medium.com/planet-stories/getting-to-planetary-scale-location-insights-c4a011d5641e?sk=8334bf2232c7636636400d0f17d23590)
 6. [2018 Creating datasets for object detection in satellite imagery](https://www.youtube.com/watch?v=WZBmflsm3Qo)
-
 
 
 
