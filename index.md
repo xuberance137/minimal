@@ -8,7 +8,7 @@ layout: default
 | [Github](https://github.com/xuberance137) 
 
 
-I am the founder and CTO at [Sust Global](https://www.sustglobal.com/), where we are building geospatial AI for risk modeling and climate adaptation. I am interested in data, finance and software systems that facilitate decision making. 
+I am the cofounder and CTO at [Sust Global](https://www.sustglobal.com/), where we are building geospatial AI for risk modeling and climate adaptation. I am interested in data, finance and software systems that facilitate decision making. 
 
 We live in the most exciting time to build, deliver value and create impact with geospatial products across industries. While it has never been easier to create companies, it has never been harder to stand up new businesses with defensible moats. 
 
