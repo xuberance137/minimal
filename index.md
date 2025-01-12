@@ -10,15 +10,15 @@ layout: default
 
 I am the cofounder and CTO at [Sust Global](https://www.sustglobal.com/), where we are building geospatial AI for financial risk modeling and socioeconomic impact understanding. I am interested in data, finance and software systems that facilitate decision making. 
 
-We live in the most exciting time to build, deliver value and create impact with geospatial products across industries. While it has never been easier to create companies, it has never been harder to stand up new businesses with defensible moats. 
+We live in the most exciting time to build, deliver value and create impact with geospatial data across industries. While it has never been easier to create companies, it has never been harder to stand up new businesses with defensible moats. 
 
 My career mission is to leverage the power of small teams forged from collaboration across autonomous experts to create billion dollar businesses from complex data. I am constantly seeking to operate at the efficient frontier of technical depth and application domain knowledge and operational scale. 
 
-I spent the early years of my career as an algorithm engineer. In recent years, I have led products that have scaled from whiteboard concepts to customer centric proof of value to planetary scale inference in weeks and months. Previously, I led geospatial AI products at [Planet Labs](https://www.planet.com/) (NYSE:PL), an integrated aerospace and data analytics company that operates history's largest commercial fleet of earth observation satellites. 
+I spent the early years of my career as an algorithm engineer. In recent years, I have led teams and products that have scaled from whiteboard concepts to customer centric proof of value to planetary scale inference in weeks and months. Previously, I led geospatial AI products at [Planet Labs](https://www.planet.com/) (NYSE:PL), an integrated aerospace and data analytics company that operates history's largest commercial fleet of earth observation satellites. 
 
 My research has presented at leading technical machine learning conferences such as CVPR (2018), ICML (2019), NeurIPS (2020) and ICLR (2023). I've been lead inventor in over 15 patents ([full list](https://patents.google.com/?inventor=erinjippurath)) across imaging and entertainment technologies and geospatial data representation and processing. I've been an invited speaker and presenter at the USPTO Invention Fair, Google Cloud Next and MLConf.
 
-I invest in early stage AI, geospatial and new space ventures as an angel investor and LP.
+I invest in and support founders operating in AI, geospatial and new space ventures as an advisor, angel investor and LP.
 
 
 # Writings
