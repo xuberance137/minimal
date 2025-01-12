@@ -18,7 +18,7 @@ I spent the early years of my career as an algorithm engineer. In recent years, 
 
 My research has presented at leading technical machine learning conferences such as CVPR (2018), ICML (2019), NeurIPS (2020) and ICLR (2023). I've been lead inventor in over 15 patents ([full list](https://patents.google.com/?inventor=erinjippurath)) across imaging and entertainment technologies and geospatial data representation and processing. I've been an invited speaker and presenter at the USPTO Invention Fair, Google Cloud Next and MLConf.
 
-I invest in and support founders operating in AI, geospatial and new space ventures as an advisor, angel investor and LP.
+I support founders operating in AI, geospatial and new space ventures as an advisor, angel investor and LP.
 
 
 # Writings
