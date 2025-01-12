@@ -16,7 +16,7 @@ My career mission is to leverage the power of small teams forged from collaborat
 
 I spent the early years of my career as an algorithm engineer. In recent years, I have led products that have scaled from whiteboard concepts to customer centric proof of value to planetary scale inference in weeks and months. Previously, I led geospatial AI products at [Planet Labs](https://www.planet.com/) (NYSE:PL), an integrated aerospace and data analytics company that operates history's largest commercial fleet of earth observation satellites. 
 
-I've been an invited speaker at global industry conferences like Google Cloud Next, MLConf. My research has presented at leading technical machine learning conferences such as CVPR (2018), ICML (2019), NeurIPS (2020) and ICLR (2023). I've been lead inventor in over 15 patents ([full list](https://patents.google.com/?inventor=erinjippurath)) across imaging and entertainment technologies and geospatial data representation and processing. I was an invited presenter at the 2014 USPTO Invention Fair.
+My research has presented at leading technical machine learning conferences such as CVPR (2018), ICML (2019), NeurIPS (2020) and ICLR (2023). I've been lead inventor in over 15 patents ([full list](https://patents.google.com/?inventor=erinjippurath)) across imaging and entertainment technologies and geospatial data representation and processing. I've been an invited speaker and presenter at the USPTO Invention Fair, Google Cloud Next and MLConf.
 
 I invest in early stage AI, geospatial and new space ventures as an angel investor and LP.
 
