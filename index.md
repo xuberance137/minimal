@@ -36,7 +36,7 @@ I support founders operating in AI, geospatial and new space ventures as an advi
 2. [ICLR2025: Denoising diffusion models for spatial super resolution.](https://docsend.com/view/3xz8x3kptqad23sc)
 3. [2024: A tale of two hurricanes in the North Atlantic.](https://www.linkedin.com/posts/gopalerinjippurath_inferences-from-a-climate-finance-and-data-activity-7254168305790267392-wSeG)
 4. [2024: Beyond opaque ESG metrics for portfolios of utilities.](https://www.linkedin.com/posts/gopalerinjippurath_utilitiesindustry-utilities-portfoliomanagement-activity-7166468148819427329-6gas)
-5. [ICLR2023: Role of geospatial AI in fireproofing forest carbon](https://www.linkedin.com/posts/gopalerinjippurath_the-role-of-ai-in-fireproofing-forest-carbon-activity-7063921444107284480-BP_c)
+5. [ICLR2023: Role of geospatial AI in fireproofing forest carbon.](https://www.linkedin.com/posts/gopalerinjippurath_the-role-of-ai-in-fireproofing-forest-carbon-activity-7063921444107284480-BP_c)
 6. [AAAI2022: Contrastive learning for debiasing and super resolution.](https://www.climatechange.ai/papers/aaaifss2022/10)
 7. [NeurIPS2020: Geoscience-driven super-resolution of fire projections.](https://www.climatechange.ai/papers/neurips2020/45)
 8. [ICML2019: Building geospatial AI to prepare for climate change.](https://medium.com/planet-stories/how-automated-building-analytics-can-help-african-cities-prepare-for-climate-change-dcee34929b2e)
