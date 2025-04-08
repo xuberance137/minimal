@@ -44,7 +44,7 @@ I support founders operating in AI, geospatial and new space ventures as an advi
 
 # Interviews and podcasts
 
-1. [2025, The Road to Geography 2050 on AGS with Tee Barr. To be published.]
+1. [2025, The Road to Geography 2050 on AGS with Tee Barr. (Coming Soon)](https://www.geography2050.org/)
 2. [2024, Interview on Geospatial AI at NYSE with Evan Kodra.](https://www.linkedin.com/posts/gopalerinjippurath_sustainabilityspotlight-activity-7273054324639866880-FZj0/)
 3. [2023, Product Thinking Podcast with Melissa Perri.](https://www.linkedin.com/feed/update/urn:li:activity:7209890643689574400/)
 4. [2023, Inteview at ReFi Summit with Rex St John.](https://youtu.be/3icTtsiySv8?si=EATsGDuec0-roMq1)
