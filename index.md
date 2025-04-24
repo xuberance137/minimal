@@ -34,7 +34,7 @@ I support founders operating in AI, geospatial and new space ventures as an advi
 
 # Analysis and technical papers
 
-1. [2025: Climate resilience smart beta stategies. (Working Paper.)](https://docsend.com/view/5u5epge2hffsd943)
+1. [2025: Climate resilience smart beta stategies. (Working Paper)](https://docsend.com/view/5u5epge2hffsd943)
 2. [ICLR2025: A multimodal AI model for decoding the insurance crisis.](https://docsend.com/view/272njjmbirtexknu)
 3. [ICLR2025: Denoising diffusion models for spatial super resolution.](https://docsend.com/view/3xz8x3kptqad23sc)
 4. [2024: A tale of two hurricanes in the North Atlantic.](https://www.linkedin.com/posts/gopalerinjippurath_inferences-from-a-climate-finance-and-data-activity-7254168305790267392-wSeG)
