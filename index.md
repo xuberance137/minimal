@@ -55,7 +55,7 @@ I support founders operating in AI, geospatial and new space ventures as an advi
 6. [2022, Data Engg Podcast with Tobias Macey.](https://youtu.be/IFRjA-WyfWQ?si=aYKU-hZkr1WcQlgB)
 7. [2022, Data science and your product career with John Fotenote.](https://youtu.be/BMvoMTLda0o?si=rzCw_vfgFiTSyzcL)
 
-# Talks
+# Select Talks
 
 1. [2025 ICLR, Singapore: Multimodal Geospatial AI Models](https://www.climatechange.ai/papers/iclr2025/61)
 2. [2024 Climate Week SF](https://www.linkedin.com/posts/gopalerinjippurath_sfclimateweek-climateweeknyc-activity-7208497957254385664-B48-)
