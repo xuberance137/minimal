@@ -58,7 +58,7 @@ I support founders operating in AI, geospatial and new space ventures as an advi
 # Select Talks
 
 1. [2025 ICLR, Singapore: Multimodal Geospatial AI Models](https://www.climatechange.ai/papers/iclr2025/61)
-2. [2025 Google Next25, Geospatial Reasoning at Research in Action Showcase](https://cloud.withgoogle.com/next/25/session-library?demo=RIA-106)
+2. [2025 Google Next25, Geospatial Reasoning, Research Showcase](https://cloud.withgoogle.com/next/25/session-library?demo=RIA-106)
 3. [2024 Climate Week SF](https://www.linkedin.com/posts/gopalerinjippurath_sfclimateweek-climateweeknyc-activity-7208497957254385664-B48-)
 4. [2021 Making multisource geospatial imagery useful for ML](https://www.linkedin.com/posts/gopalerinjippurath_making-multi-source-geospatial-imagery-useful-activity-6562096295664848896-oq_G)
 5. [2020 ML Conf: Scenario analysis through geospatial AI](https://youtu.be/p4FhmF4RBqk?si=-gqVmGre9izAT16C)
