@@ -58,14 +58,13 @@ I support founders operating in AI, geospatial and new space ventures as an advi
 # Select Talks
 
 1. [2025 ICLR, Singapore: Multimodal Geospatial AI Models](https://www.climatechange.ai/papers/iclr2025/61)
-2. [2025 Google Next25, Geospatial Reasoning, Research Showcase](https://cloud.withgoogle.com/next/25/session-library?demo=RIA-106)
-3. [2024 Climate Week SF](https://www.linkedin.com/posts/gopalerinjippurath_sfclimateweek-climateweeknyc-activity-7208497957254385664-B48-)
-4. [2021 Making multisource geospatial imagery useful for ML](https://www.linkedin.com/posts/gopalerinjippurath_making-multi-source-geospatial-imagery-useful-activity-6562096295664848896-oq_G)
-5. [2020 ML Conf: Scenario analysis through geospatial AI](https://youtu.be/p4FhmF4RBqk?si=-gqVmGre9izAT16C)
-6. [2020 NeurIPS: Geoscience-driven super-resolution of fire projections.](https://www.climatechange.ai/papers/neurips2020/45)
-7. [2019 Google Cloud Next: Leveraging data and AI for social good](https://youtu.be/MIa54a9NnW4?si=qlcMwmqJORgmx451)
-8. [2019 ODSC: Planetary scale location insights](https://medium.com/planet-stories/getting-to-planetary-scale-location-insights-c4a011d5641e?sk=8334bf2232c7636636400d0f17d23590)
-9. [2018 Creating datasets for object detection in satellite imagery](https://www.youtube.com/watch?v=WZBmflsm3Qo)
+2. [2024 Climate Week SF](https://www.linkedin.com/posts/gopalerinjippurath_sfclimateweek-climateweeknyc-activity-7208497957254385664-B48-)
+3. [2021 Making multisource geospatial imagery useful for ML](https://www.linkedin.com/posts/gopalerinjippurath_making-multi-source-geospatial-imagery-useful-activity-6562096295664848896-oq_G)
+4. [2020 ML Conf: Scenario analysis through geospatial AI](https://youtu.be/p4FhmF4RBqk?si=-gqVmGre9izAT16C)
+5. [2020 NeurIPS: Geoscience-driven super-resolution of fire projections.](https://www.climatechange.ai/papers/neurips2020/45)
+6. [2019 Google Cloud Next: Leveraging data and AI for social good](https://youtu.be/MIa54a9NnW4?si=qlcMwmqJORgmx451)
+7. [2019 ODSC: Planetary scale location insights](https://medium.com/planet-stories/getting-to-planetary-scale-location-insights-c4a011d5641e?sk=8334bf2232c7636636400d0f17d23590)
+8. [2018 Creating datasets for object detection in satellite imagery](https://www.youtube.com/watch?v=WZBmflsm3Qo)
 
 
 
