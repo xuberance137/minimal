@@ -8,7 +8,7 @@ layout: default
 | [Github](https://github.com/xuberance137) 
 
 
-I am the cofounder and CTO at [Sust Global](https://www.sustglobal.com/), where we are building geospatial AI linking varied datasets to macro research and financial risk modeling  workflows across institutional investors. I am interested in data, finance and software systems that facilitate decision making. 
+I am the cofounder and CTO at [Sust Global](https://www.sustglobal.com/), where we are building geospatial AI linking varied datasets to macro research and financial risk modeling  workflows across institutional investors. I am interested in data, finance and intelligent software systems that facilitate decision making. 
 
 We live in the most exciting time to build, deliver value and create impact with geospatial data across industries. While it has never been easier to create companies, it has never been harder to stand up new businesses with defensible moats. 
 
@@ -47,7 +47,7 @@ I support founders operating in AI, geospatial and new space ventures as an advi
 
 # Select interviews and podcasts
 
-1. [2025, The Road to Geography 2050 with Tee Barr. (Coming Soon)](https://www.geography2050.org/)
+1. [2025, The Road to Geography 2050 with Tee Barr. ](https://www.linkedin.com/posts/gopalerinjippurath_geosptialai-eo-geospatialai-activity-7326304131361443841-GEvh)
 2. [2024, Interview on Geospatial AI at NYSE with Evan Kodra.](https://www.linkedin.com/posts/gopalerinjippurath_sustainabilityspotlight-activity-7273054324639866880-FZj0/)
 3. [2023, Product Thinking Podcast with Melissa Perri.](https://www.linkedin.com/feed/update/urn:li:activity:7209890643689574400/)
 4. [2023, Inteview at ReFi Summit with Rex St John.](https://youtu.be/3icTtsiySv8?si=EATsGDuec0-roMq1)
