@@ -8,7 +8,7 @@ layout: default
 | [Github](https://github.com/xuberance137) 
 
 
-I am the cofounder and CTO at [Sust Global](https://www.sustglobal.com/)(acquired by [ISS STOXX](https://www.linkedin.com/posts/gopalerinjippurath_boooom-sust-global-has-been-acquired-activity-7358553092226764801-U1FY)), where we are building geospatial AI linking varied datasets to macro research and financial risk modeling  workflows across institutional investors. I am interested in data, finance and intelligent software systems that facilitate decision making. 
+I am the cofounder and CTO at [Sust Global](https://www.sustglobal.com/) (acquired by [ISS STOXX](https://www.linkedin.com/posts/gopalerinjippurath_boooom-sust-global-has-been-acquired-activity-7358553092226764801-U1FY)), where we are building geospatial AI linking varied datasets to macro research and financial risk modeling  workflows across institutional investors. I am interested in data, finance and intelligent software systems that facilitate decision making. 
 
 We live in the most exciting time to build, deliver value and create impact with AI across industries. While it has never been easier to create companies, it has never been harder to stand up new businesses with defensible moats. 
 
@@ -16,7 +16,7 @@ My career mission is to leverage the power of small teams forged from collaborat
 
 I spent the early years of my career as an algorithm engineer. In recent years, I have led teams and products that have scaled from whiteboard concepts to customer centric proof of value to planetary scale inference in weeks and months. Previously, I led geospatial AI products at [Planet Labs](https://www.planet.com/) (NYSE:PL), an integrated aerospace and data analytics company that operates history's largest commercial fleet of earth observation satellites. 
 
-My products and research has been presented at leading AI conferences such as CVPR (2018), ICML (2019), NeurIPS (2020) and ICLR (2023, 2025). I've been lead inventor on over 15 patents ([full list](https://patents.google.com/?inventor=erinjippurath)) across imaging systems, machine learning systems and geospatial data representation. I've been an invited speaker and presenter at the USPTO Invention Fair, Google Cloud Next, ESA Living Planet and MLConf.
+My products and research has been presented at leading AI conferences such as CVPR (2018), ICML (2019), NeurIPS (2020) and ICLR (2023, 2025). I've been lead inventor on over 15 patents ([full list](https://patents.google.com/?inventor=erinjippurath)) across imaging systems, machine learning systems and geospatial data representation. I've been an invited speaker at the USPTO Invention Fair, Google Cloud Next, ESA Living Planet and MLConf.
 
 I support founders operating in AI, geospatial and new space ventures as an advisor, angel investor and LP across multiple venture funds.
 
