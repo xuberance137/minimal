@@ -31,7 +31,7 @@ I support founders operating in AI, geospatial and new space ventures as an advi
 6. [Geospatial 2.0: Unlocking billions, across verticals, at scale.](https://www.linkedin.com/posts/gopalerinjippurath_approaching-geospatial-20-unlocking-billions-activity-6549406753174499328-RkcR)
 7. [The software of climate adaptation.](https://medium.com/age-of-awareness/the-software-of-climate-adaptation-242d06ed7c0f)
 8. [It matters when it is in your backyard.](https://medium.com/datadriveninvestor/it-matters-when-its-in-your-backyard-e3f93953e282)
-9. [Working towards planetary scale location insights](https://www.planet.com/pulse/working-toward-planetary-scale-location-insights/)
+9. [Working towards planetary scale location insights.](https://www.planet.com/pulse/working-toward-planetary-scale-location-insights/)
 
 # Analysis and technical papers
 
