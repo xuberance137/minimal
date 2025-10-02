@@ -42,7 +42,8 @@ I support founders operating in AI, geospatial and new space ventures as an advi
 6. [ICLR2023: Role of geospatial AI in fireproofing forest carbon.](https://www.linkedin.com/posts/gopalerinjippurath_the-role-of-ai-in-fireproofing-forest-carbon-activity-7063921444107284480-BP_c)
 7. [AAAI2022: Contrastive learning for debiasing and super resolution.](https://www.climatechange.ai/papers/aaaifss2022/10)
 8. [NeurIPS2020: Geoscience-driven super-resolution of fire projections.](https://www.climatechange.ai/papers/neurips2020/45)
-9. [ICML2019: Building geospatial AI to prepare for climate change.](https://medium.com/planet-stories/how-automated-building-analytics-can-help-african-cities-prepare-for-climate-change-dcee34929b2e)
+9. [ODSC2019: Working towards planetary scale location insights](https://www.planet.com/pulse/working-toward-planetary-scale-location-insights/)
+10. [ICML2019: Building geospatial AI to prepare for climate change.](https://medium.com/planet-stories/how-automated-building-analytics-can-help-african-cities-prepare-for-climate-change-dcee34929b2e)
 
 
 # Select interviews and podcasts
