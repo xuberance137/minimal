@@ -8,17 +8,17 @@ layout: default
 | [Github](https://github.com/xuberance137) 
 
 
-I am an entrepreneur and technologist driving AI product and technology strategy at [ISS STOXX](https://www.issgovernance.com/), following the acquisition of [Sust Global](https://www.sustglobal.com/), where I served as Co-Founder and CTO. Today, my work focuses on the intersection of artificial intelligence and capital markets, specifically designing agentic AI workflows and next-generation signal generation for institutional index strategies.
+I am an entrepreneur and technologist driving AI product and technology strategy at [ISS STOXX](https://www.issgovernance.com/), following the acquisition of [Sust Global](https://www.sustglobal.com/), where I served as Co-founder and CTO. Today, my work focuses on the intersection of artificial intelligence and capital markets, specifically designing agentic AI workflows and next-generation signal generation for institutional investment strategies.
 
 We are navigating the most transformative era of technology in our lifetimes. While it has never been easier to spin up a product demo, building defensible, generational businesses requires deep domain expertise and technological rigor. I am fascinated by intelligent software systems that cut through the noise and fundamentally empower human decision-making. 
 
 My blueprint for scale is simple: empower small, highly specialized teams to turn complex data into generational businesses. I operate at the efficient frontier of technical depth, applied domain knowledge, and operational scale.
 
-I spent the early years of my career as an algorithm engineer. In recent years, I have led teams and products that have scaled from whiteboard concepts to customer centric proof of value to planetary scale inference in weeks and months. Previously, I led geospatial AI products at [Planet Labs](https://www.planet.com/) (NYSE:PL), an integrated aerospace and data analytics company operating history's largest commercial fleet of earth observation satellites. 
+I spent the early years of my career as an algorithm engineer. In recent years, I have led teams and products that have scaled from whiteboard concepts to customer centric proof of value to planetary scale inference in weeks and months. Previously, I led geospatial AI products at [Planet Labs](https://www.planet.com/), an integrated aerospace and data analytics company operating history's largest commercial fleet of earth observation satellites. 
 
 My products and research have been presented at leading AI conferences including CVPR, ICML, NeurIPS, and ICLR. I am the lead inventor on over 15 patents ([full list](https://patents.google.com/?inventor=erinjippurath)) spanning imaging systems, machine learning architectures, and geospatial data representation, and have been an invited speaker at Google Cloud Next, ESA Living Planet, and MLConf.
 
-Having navigated the journey from zero-to-one and through a successful acquisition, I am deeply committed to the builder ecosystem. As a private markets investor and advisor, I actively back founders forging the future of early and late-stage enterprise AI, enterprise, and space technologies. If you are building at this frontier, I would love to connect.
+Having navigated the journey from zero-to-one and through a successful acquisition, I am deeply committed to the builder ecosystem. As a private markets investor and advisor, I actively back founders forging the future of early and late-stage enterprise AI, financial data and new space technologies. If you are building at this frontier, I would love to connect.
 
 # Writings
 
